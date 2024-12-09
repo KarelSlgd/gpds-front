@@ -1,6 +1,6 @@
 # gpds-ui
 
-## Project setup test
+## Project setup
 ```
 npm install
 ```
